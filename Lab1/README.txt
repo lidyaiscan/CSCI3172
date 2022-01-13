@@ -13,6 +13,7 @@
 ## Getting Started
 
 GitLab Repository Link: https://git.cs.dal.ca/lidya/csci-3172/-/tree/main/Lab1
+Timberlea Link: https://web.cs.dal.ca/~lidya/csci3172/lab1/
 
 ## Sources Used
 
