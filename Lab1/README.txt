@@ -12,7 +12,7 @@
 
 ## Getting Started
 
-GitLab Repository Link: https://git.cs.dal.ca/lidya/csci-3172
+GitLab Repository Link: https://git.cs.dal.ca/lidya/csci-3172/-/tree/main/Lab1
 
 ## Sources Used
 
