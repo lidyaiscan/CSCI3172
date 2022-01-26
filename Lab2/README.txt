@@ -79,3 +79,4 @@ Both the let and const keywords were added to JavaScript in 2015 with ECMAScript
 ## Sources Used
 
 No code was copied, re-used, or modified from other sources.
+The Lab 2 slides were used for answering Question 4.
