@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form {
+    background-color: lightgrey;
+    padding: 16px;
+}
+
+.form p {
+    margin: 8px 0;
+}
+
+.form label {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.form input[type=text] {
+    width: 300px;
+    display: block;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.form input[type="radio"] {
+    margin-bottom: 24px;
+}
+
+.form select {
+    width: 318px;
+    display: block;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.form button {
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.formSubmission {
+    display: none;
+}
+
+.submission {
+    background-color: lightgrey;
+    padding: 16px;
+}

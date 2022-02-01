@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Lab 3</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div class="formContent">
+            <h1>Form</h1>
+            <form class="form">
+                <!-- Name -->
+                <label for="firstName">First Name:</label>
+                <input type="text" id="firstName">
+                <br>
+                <label for="lastName">Last Name:</label>
+                <input type="text" id="lastName">
+                <br>
+
+                <!-- Gender -->
+                <p>Gender:</p>
+                <label for="male">Male</label>
+                <input type="radio" id="male" value="Male" name="gender">
+                <label for="female">Female</label>
+                <input type="radio" id="female" value="Female" name="gender">
+                <label for="nonBinary">Non Binary</label>
+                <input type="radio" id="nonBinary" value="Non Binary" name="gender">
+                <br>
+
+                <!-- Country -->
+                <p>Country:</p>
+                <select id="country">
+                    <option value="" selected hidden></option>
+                    <option value="Australia">Australia</option>
+                    <option value="Brazil">Brazil</option>
+                    <option value="Canada">Canada</option>
+                    <option value="Denmark">Denmark</option>
+                    <option value="Egypt">Egypt</option>
+                    <option value="France">France</option>
+                    <option value="Georgia">Georgia</option>
+                    <option value="Haiti">Haiti</option>
+                    <option value="India">India</option>
+                    <option value="Japan">Japan</option>
+                    <option value="Kenya">Kenya</option>
+                    <option value="Laos">Laos</option>
+                    <option value="Malasia">Malasia</option>
+                    <option value="Nepal">Nepal</option>
+                    <option value="Oman">Oman</option>
+                    <option value="Poland">Poland</option>
+                    <option value="Qatar">Qatar</option>
+                    <option value="Russia">Russia</option>
+                    <option value="Spain">Spain</option>
+                    <option value="Thailand">Thailand</option>
+                    <option value="United States Of America">United States of America</option>
+                    <option value="Venezuela">Venezuela</option>
+                    <option value="Yemen">Yemen</option>
+                    <option value="Zambia">Zambia</option>
+                </select>
+                <br>
+                
+                <!-- Submit -->
+                <button type="submit" id="submit">Submit</button>
+
+            </form>
+        </div>
+
+        <!-- Form Submission Data -->
+        <div class="formSubmission">
+            <h1>Form Submission</h1>
+            <div class="submission">
+                <p id="firstNameValue"></p>
+                <p id="lastNameValue"></p>
+                <p id="genderValue"></p>
+                <p id="countryValue"></p>
+            </div>
+        </div>
+
+        <script src="js/script.js"></script>
+    </body>
+</html>
