@@ -17,5 +17,5 @@ Timberlea Link: https://web.cs.dal.ca/~lidya/csci3172/lab5/
 ## Sources Used
 
 Some code that was written was resued and modified from my own work from previous labs.
-The js code that was reused and modified to check for prime, composite or neither numbers now includes number 0 and increments the number counters, lines 19-35 in script.js was taken from my Lab4 script, lines 62-77.
+The js code that was reused and modified to check for prime, composite or neither numbers now includes number 0 and increments the number counters, lines 20-37, 50-66, and 78-94 in script.js was taken from my Lab4 script, lines 62-77.
 The css code that was also reused and modified for my form elements in styles.css was taken from my Lab3 css stylesheet.
