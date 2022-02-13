@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form {
+    background-color: lightgrey;
+    padding: 16px;
+}
+
+.form input[type=text] {
+    width: 300px;
+    display: block;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.form button {
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.formSubmission {
+    display: none;
+    background-color: lightgrey;
+    padding: 16px;
+}
