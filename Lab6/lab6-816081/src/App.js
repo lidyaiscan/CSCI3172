@@ -12,7 +12,7 @@ function App() {
 function MainContent() {
   return (
     <div className="MainContent">
-      <h1>Main content</h1>
+      <h1>Main Content</h1>
       <p>This is the main content section of the app.</p>
       <p>Etiam feugiat dolor ac nunc placerat, nec venenatis diam viverra. Sed id lectus ex. Cras tempor eros et 
         eros ornare, id tincidunt felis ornare. Vestibulum sed orci commodo, euismod sem laoreet, feugiat nibh. 
