@@ -12,7 +12,7 @@
 ## Getting Started
 
 GitLab Repository Link: https://git.cs.dal.ca/lidya/csci-3172/-/tree/main/Lab6
-Heroku Link: 
+Heroku Link: https://lab6-816081.herokuapp.com/
 
 ## Deployment
 
