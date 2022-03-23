@@ -1,0 +1,15 @@
+.formInfo {
+  margin: 0 auto;
+  background-color: #f5f6fa;
+  padding: 1em;
+  position: relative;
+  border-radius: 3px;
+}
+
+.info {
+    padding: .6em;
+}
+
+.footer {
+    text-align: center;
+}
